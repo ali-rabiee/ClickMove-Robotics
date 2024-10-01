@@ -1,4 +1,5 @@
-# Head-Motion-Robotic-Arm
+# ClickMove-Robotics
+
 
 This project integrates a graphical user interface (GUI) with an inertial measurement unit (IMU) sensor to provide dual-mode control of a robotic arm. Users can choose to control the robotic arm by clicking on cursor buttons in the GUI or by using the IMU sensor to move the cursor for button selection. 
 
@@ -10,3 +11,18 @@ This project integrates a graphical user interface (GUI) with an inertial measur
 
 ## Demo
 ![Description of GIF](https://github.com/ali-rabiee/ClickMove-Robotics/blob/main/demo/demo.gif?raw=true)
+
+```bash
+git clone https://github.com/ali-rabiee/STREAMS.git
+cd ClickMove-Robotics
+
+```
+## Control via cursor
+```bash
+python3 jaco3D_1.py
+```
+## Control via IMU
+First, upload the IMU_Mouse_Arduino_Control_Position_Sys_V6.ino into an Arduino board with an IMU sensor and then:
+```bash
+python3 v6.py
+```
