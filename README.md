@@ -7,3 +7,6 @@ This project integrates a graphical user interface (GUI) with an inertial measur
 - **Intuitive GUI**: A user-friendly interface with clearly labeled buttons for different robotic arm actions, enabling quick and straightforward control.
 - **Real-Time Feedback**: The GUI provides real-time visual feedback on the robotic arm's status and position, allowing users to see the effects of their inputs immediately.
 - **IMU Integration**: The IMU sensor accurately detects movements, translating them into cursor movements for intuitive control without the need for manual clicking.
+
+## Demo
+[Click here to watch the video!](Demo/demo.gif)
