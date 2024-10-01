@@ -10,3 +10,4 @@ This project integrates a graphical user interface (GUI) with an inertial measur
 
 ## Demo
 [Click here to watch the video!](demo/demo.gif)
+![Description of GIF](https://github.com/ali-rabiee/ClickMove-Robotics/main/demo/demo.gif?raw=true)
