@@ -9,4 +9,4 @@ This project integrates a graphical user interface (GUI) with an inertial measur
 - **IMU Integration**: The IMU sensor accurately detects movements, translating them into cursor movements for intuitive control without the need for manual clicking.
 
 ## Demo
-[Click here to watch the video!](Demo/demo.gif)
+[Click here to watch the video!](demo/demo.gif)
