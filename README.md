@@ -13,7 +13,7 @@ This project integrates a graphical user interface (GUI) with an inertial measur
 ![Description of GIF](https://github.com/ali-rabiee/ClickMove-Robotics/blob/main/demo/demo.gif?raw=true)
 
 ```bash
-git clone https://github.com/ali-rabiee/STREAMS.git
+git clone https://github.com/ali-rabiee/ClickMove-Robotics.git
 cd ClickMove-Robotics
 
 ```
